@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The matching of the magistrates authority and the Christians true liberty in matters if religion wherein is clearly stated, how farre the magistrate may impose or restrain in matters of faith and worship, and how far forth the Christian may challenge freedome and exemption : in a sermon preached at the Assizes at Dorchester, Jul. 17. 1651. / by William Lyford ...</title>
+            <author>Lyford, William, 1598-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49510</idno>
+            <idno type="STC">Wing L3549</idno>
+            <idno type="STC">ESTC R32907</idno>
+            <idno type="EEBO-CITATION">12778733</idno>
+            <idno type="OCLC">ocm 12778733</idno>
+            <idno type="VID">93797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1036:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The matching of the magistrates authority and the Christians true liberty in matters if religion wherein is clearly stated, how farre the magistrate may impose or restrain in matters of faith and worship, and how far forth the Christian may challenge freedome and exemption : in a sermon preached at the Assizes at Dorchester, Jul. 17. 1651. / by William Lyford ...</title>
+                  <author>Lyford, William, 1598-1653.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston, and are to be sold by Tho. Miller,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Church and state --  Church of England.</term>
+               <term>Freedom of religion --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93797:1"/>
+            <pb facs="tcp:93797:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE MATCHING</hi> OF THE Magiſtrates Authority, AND <hi>THE CHRISTIANS TRUE LIBERTY</hi> IN Matters of RELIGION.</p>
+            <p>VVherein is clearly ſtated, How farre the Ma<g ref="char:EOLhyphen"/>giſtrate may impoſe or reſtrain in matters of FAITH and VVORSHIP, And how far forth the Chriſtian may challenge Freedome and Exemption.</p>
+            <p>In a Sermon preached at the Aſſizes at <hi>DORCHESTER,</hi> Jul. 17. 1651.</p>
+            <p>By WILLIAM LYFORD B.D. and late Miniſter of <hi>Sherborn</hi> in <hi>Dorſ.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for R. ROYSTON, and are to be ſold by <hi>Tho: Miller</hi> Booke-ſeller in <hi>Sherborne.</hi> 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:93797:2"/>
+            <pb facs="tcp:93797:2"/>
+            <head>
+               <hi>TO THE HONO<g ref="char:V">Ʋ</g>RABLE,</hi> Sir GERARD NAPPER, Knight and Baronet.</head>
+            <opener>
+               <salute>
+                  <hi>Moſt Honoured</hi> SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He World doth much call for this little worke of my Fathers, who is now with God. And the Communion of Saints being ſo great a part of our moſt holy Faith, I dare not keep it back from any Christian mans enjoyment; Yet it being a piece, which was formed in your ſervice, while you were She<g ref="char:EOLhyphen"/>riffe of <hi>Dorſet</hi>-ſhire, I refuſe to ſend it forth but with your cognizance, and under your Patronage. It is juſt, that having beene borne, as it were, in your houſe, it ſhould not become the propertie of others,
+<pb facs="tcp:93797:3"/>without a ſpeciall reſerve of its chiefe ho<g ref="char:EOLhyphen"/>mage unto your ſelfe. When it was prea<g ref="char:EOLhyphen"/>ched to you from the Pulpit, it found your great acceptance: I hope it ſhall finde as great, now it ſalutes you from the Preſſe. And if it ſhall be ſtill as welcome to your eye as it was then unto your eare, it will much encourage me to inherite as well my Fa<g ref="char:EOLhyphen"/>thers affections to you as his name, and to let you ſee, that though he be dead, yet there is ſtill alive</p>
+            <closer>
+               <salute>Moſt honour'd SIR,</salute>
+               <signed>
+                  <hi>Your faithfull and hum<g ref="char:EOLhyphen"/>ble Servant,</hi> WILL: LYFORD.</signed>
+               <dateline>
+                  <hi>From my Study in Mag. Coll.</hi> Oxon. <date>Octob. <hi>22. 1653.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:93797:3"/>
+            <head>DAN. 3.14. to 18. <hi>Is it true ô SHADRACH,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe two things, <hi>The Truths of Chriſt,</hi> and <hi>Peace among Brethren,</hi> ought to be precious to every Son of the Church 'Twas a bleſſed time when the multitude of <hi>Believers</hi> were of <hi>one heart,</hi> and <hi>one Soule,</hi>
+               <note place="margin">Acts</note> when they held Com<g ref="char:EOLhyphen"/>munion in Doctrine and Fellowſhip, in brea<g ref="char:EOLhyphen"/>king of Bread and Prayers, they heard together, they received together, they prayed together; and according to this primi<g ref="char:EOLhyphen"/>tive Patterne, all good Chriſtians ſhould endeavour to walk, and thoſe Churches are happy which hold that bleſſed knot of Truth and Love: Contrary whereunto are thoſe two reigning evils among us at this day, viz. <hi>Wantonneſſe of Spirit,</hi> and <hi>Pride of Spirit;</hi> Through the wantonneſſe of mens ſpirits craving an abſolute liberty in matters of God, the ſacred Truths of God are corrupted and vilified; And through the Pride of mens ſpirits on the other hand, impoſing matters of Opinion and Worſhip under temporall penalties, the Quiet of mens Conſciences, and Unity among Brethren is exceedingly diſtur<g ref="char:EOLhyphen"/>bed and unſetled. There is much evill in both extreams, either that all things ſhould be tolerated, or Nothing; that Nothing ſhould be reſtrained, or that All things ſhould be impoſed, and rigidly enforced under temporall inflictions; the one leads to Hereſie and Atheiſme, the other to Pereſcution. Now to ſhape a courſe out of Gods Word: 1. How the ſacred Truths of God, and the precious Souls of Men, (thoſe great truths commit<g ref="char:EOLhyphen"/>ted to our charge.) And 2. How the juſt Liberty of Conſcience (for I meddle not without my line) with due reverence to Au<g ref="char:EOLhyphen"/>thority may be preſerved pure and blameleſſe, is the ſcope of my enſuing diſcourſe, unto which ends I ſhall endeavour to drive with all clearneſſe, Chriſtian Moderation and Sobriety, from the words now read in your eares.</p>
+            <pb n="2" facs="tcp:93797:4"/>
+            <p>Whether <hi>Nebuchadnezzar</hi> did erect this huge Statue of ſuch a vaſt coſt (for it was of God) and bigneſſe (60. cubits high) out of ambition and vaine-glory, as a Monument of his Great<g ref="char:EOLhyphen"/>neſſe and Magnificence, — or out of Blinde Zeale to his God <hi>Bell,</hi> to whom it was dedicated, — or out of Policy to bring all his Dominions and People to an Uniformity in Religion and Worſhip, the better to prevent Diſſentions and Diviſions in bis Kingdome, which might be occaſioned by the exerciſe of the Jewes Religion now ſcattered amongſt them? Whether all, or any of theſe things might move him, I determine not; But moſt likely it is, that there was ſomething of Deſigne in it, for the Princes of <hi>Babylon,</hi> ſeeing their Greatneſſe and Glory eclipſed by Strangers and Captives, moved with Envy and Indignation, adviſed the King to ſuch a ſpecious Action of De<g ref="char:EOLhyphen"/>votion, whereby they might intrap, and work the ruine of thoſe Jewiſh Commanders, for <hi>ver.</hi> 12. they informe againſt <hi>Shadrach, Meſhach</hi> and <hi>Abednego,</hi> that <hi>theſe men have not re<g ref="char:EOLhyphen"/>garded thee ô King, they ſerve not thy Gods, nor worſhip the Gol<g ref="char:EOLhyphen"/>den Image which thou haſt ſet up:</hi> Upon this information <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar</hi> ſends for them, and beſpeaks them in the words of my Text, <hi>Is it true O Shadrach, Meſhach, and Abednego, do not ye ſerve my Gods, nor worſhip the Image which I have ſet up?</hi> q. d. I ſhould leaſt of all men expected this from you, you, who are at my mercy, you that have been ſo highly ad<g ref="char:EOLhyphen"/>vanced by me: He uſed them civilly (as the Phraſe is) yet cru<g ref="char:EOLhyphen"/>elly, he did not preſently condemne them till he had heard their defence, and in his ſpeech he did ſeeke to win them, as un<g ref="char:EOLhyphen"/>willing to believe it to be true, which was informed, <hi>Is it true O Shadrach, that you do not ſerve my Gods,</hi> ver. 14. perhaps it was an over-ſight, or ſome needleſſe ſcruple in you, or a miſ-in<g ref="char:EOLhyphen"/>formation to me, I ſhall be willing to paſſe it by, if now at laſt you will conforme; Take time to conſider of it; But if you perſiſt, I cannot help you, you muſt be caſt into the <hi>fiery For<g ref="char:EOLhyphen"/>nace,</hi> for ſo is the Law, ver. 15. Then followes their Anſwer, ver. 16, 17. <hi>We are not carefull to anſwer thee in this matter,</hi> as if they ſhould ſay, your Majeſty is not miſ-informed, we did not worſhip your Gods, and the truth is, we cannot, we are ſufficiently adviſed and reſolved in this matter, we crave no
+<pb n="3" facs="tcp:93797:4"/>farther time for conſultation; And whereas you threaten us with Death for our refuſall, this is no ſatisfaction to our Con<g ref="char:EOLhyphen"/>ſcience, nor diſcharge of our Duty, we are not moved with thy threatnings, we are ready to ſacrifice our lives to the will and command of our God, rather than our Conſcience, or Re<g ref="char:EOLhyphen"/>ligion to thy will: It is a poor Religion, and a poor God, that is not worth the dying for. And if our God ſee cauſe by this meanes to call for our lives, we are contented to pay a debt of Nature in a debt of Duty; and yet we know that he can de<g ref="char:EOLhyphen"/>liver us from thy Fornace, if it ſeeme good unto him, but if not, we cannot gratifie thee in this matter, <hi>Wee will not ſerve thy Gods,</hi> we rather yeild our bodies, and Gods will be done.</p>
+            <p>In which Conference note two remarkable Acts,
+<list>
+                  <item>1. One of the King, enjoyning an Act of Worſhip upon men of a different judgement, and thoſe, poore Captives, under the ſharpeſt penaltie.</item>
+                  <item>2. The other of the poor vanquiſhed Captives, their refuſall, chuſing rather to ſuffer, than to ſin againſt God, reſolving in the way of Dutie to truſt God with their lives, <hi>ver.</hi> 16, 17, 18.</item>
+               </list>
+            </p>
+            <p>Sundry particulars are obſervable, but I ſhall reduce the whole into 2. Doctrines.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 1. Though the civill power hath much to do in matters of Re<g ref="char:EOLhyphen"/>ligion, yet it may not compell, or enforce under temporall penalties to an Act of Worſhip, either in it ſelfe evill, or evill in the judgement of him upon whom it is impoſed: [<hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar</hi> ſets up an Image, requires a Worſhip to it under pain of death: This was ill in him, and the like is ill in any man elſe.]</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>D.</hi> 2. From their Anſw. is this, To cleave to Gods will and ways againſt all humane dread and terror, out of a confident perſwa<g ref="char:EOLhyphen"/>ſion that God is Lord of our lives, able to deliver, and in an humble reſignation to his wiſdome whether he will deliver or not in ſuch a ſtrait, is a ſtrength of ſpirit to be endeavoured after by all that feare God and would keep a good conſcience: Thus did theſe three men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> I begin with the firſt Doctrine: Though the Civill Power, &amp;c.
+<pb n="4" facs="tcp:93797:5"/>This Truth is evidenced by the Repentance of <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar,</hi> v. 28. <hi>Bleſſed be God that hath changed the Kings word:</hi> By this Retractation he condemns his former crueltie. Note that paſſage of <hi>Pauls</hi> Repentance recorded, <hi>Acts</hi> 26.11. <hi>I puniſhed them oft in every Synagogue, and compelled them to blaſpheme:</hi> It was a great weakneſſe in them to blaſpheme, but it was a great wickedneſſe in <hi>Paul</hi> to compell them; and thus much S. <hi>Paul</hi> confeſſeth, that it is an Act of Perſecution to compell poor Chriſtians to deny what they believed concerning Jeſus Chriſt.</p>
+            <p>Obj. <hi>It may be ſaid, S.</hi> Paul <hi>ſinned becauſe he compelled to that which was evil (as here</hi> Nebuchadn. <hi>did</hi>) <hi>elſe he needed not to re<g ref="char:EOLhyphen"/>pent of what he had done.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> 1. That which he did, was not evill in the judgement of Authority; for <hi>verſe</hi> 10. Saint <hi>Paul</hi> had a <hi>Commiſſion</hi> ſo to do.</p>
+            <p n="2">2. Nor was it evill in the judgement of his owne Conſcience, for he verily thought, that he ought to doe many things a<g ref="char:EOLhyphen"/>gainſt the name of Jeſus, <hi>ver.</hi> 9. The evill of his acting there<g ref="char:EOLhyphen"/>fore did not lie only in the Object whereunto he compelled, but in the very act of compelling Chriſtians to go againſt their owne Conſciences.</p>
+            <p n="3">3. To put the ſinfulneſſe of compelling upon the Object, is altogether unſatisfactory, for the queſtion will ſtill recurre, who ſhall judge of the right? Is not every Power judge of its owne right? They that think it juſt to compell others to yeild to an unknown truth, or duty, will think it hard to be compelled to a like unknown duty by a contrary Power; And yet Error in Po<g ref="char:EOLhyphen"/>wer, thinks it hath as much right to a forcible impoſition, as Truth hath when it is in Power.</p>
+            <p>
+               <hi>Sol.</hi> 4. Note from this Confeſſion of S. <hi>Paul</hi> two things,
+<list>
+                  <item>1. That an erring Conſcience does not excuſe in caſe of miſ<g ref="char:EOLhyphen"/>actings; Perſwaſion of Conſcience is not the ground, nor prime rule of mens actings, (for the Conſcience it ſelfe muſt be regulated, elſe it will be a falſe witneſſe of God. As Con<g ref="char:EOLhyphen"/>ſcience is ſet between God and us, ſo it muſt ſpeak from God to us, not from Satan, or any Spirit of deluſion.) Saint <hi>Paul</hi> verily thought he ought to doe many things contrary to the Name of Jeſus, yet was he not thereby excuſed; he did it not
+<pb n="5" facs="tcp:93797:5" rendition="simple:additions"/>in malice, but his erring conſcience put him upon that action, which was damnable.</item>
+                  <item>2. Note, that the plea of authority is not a ſufficient diſ<g ref="char:EOLhyphen"/>charge before God, for <hi>Paul</hi> had Commiſſion for what hee did. But he and his Commiſſion were wicked, and I believe that many are and may be damned for their miſactings, though they have authority for what they do, yea, though they be alſo in conſcience perſwaded that they do nothing but what is good, as the <hi>Jewes</hi> that crucified Chriſt, and they of whom Chriſt ſpeakes <hi>Joh.</hi> 13.3. <hi>He that kills you, will thinke they do God good ſervice: Paul</hi> had been damned for his perſecuting,, unleſſe hee had repented, though he did it ignorantly.</item>
+               </list>
+            </p>
+            <p>Thus for the proofe in generall, There be two Branches of our Doctrine. 1. That the Civill Magiſtrate may do much in matters of Religion. 2. Yet not this, <hi>viz.</hi> to impoſe under tem<g ref="char:EOLhyphen"/>porall penalties; There be two extremes, ſome thinke the Ma<g ref="char:EOLhyphen"/>giſtrate has nothing to do in matters of Religion; others, that he may do what hee liſt. Some claime an abſolute freedome from all Civill Power, as being for matter of Faith and Wor<g ref="char:EOLhyphen"/>ſhip under Chriſt your King alone. Others challenge to the Magiſtrate a Power of impoſing the publikely owned and eſta<g ref="char:EOLhyphen"/>bliſhed Religion: The one is too looſe, the other too rigid.</p>
+            <p>The right or wrong apprehending and executing of this practicall point is of great good, or great miſchiefe to the Church of Chriſt: therefore for diſtinct proceeding, I ſhall endeavor to reſolve theſe two Queſtions [1. <hi>What the Civill Magiſtrate has to doe in matters of Religion,</hi> [2. <hi>What he may not doe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Qu. </seg>1</label> To the former, it is very much that the Civill Magiſtrate may and ought to doe for Chriſt; for though the Magiſtrates be not Chriſts Officers of his Mediatory Kingdome, as the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpell are; The Civill Power is a Beame of Gods Soveraignity over the World, and of his providentiall King<g ref="char:EOLhyphen"/>dome, not directly of his Kingdome of grace, yet all power is committed unto Chriſt, and God has appointed the exerciſe of his power governing the World, to be ſerviceable to the advancement of the Kingdome of his deare Son, and to the ſetting of him upon his holy Hill, according to that gracious
+<pb n="6" facs="tcp:93797:6"/>promiſe made to the Churches of the <hi>Gentiles.</hi> Eſ. 49.23. <hi>Kings ſhall be thy nurſing Fathers, and Queens thy nurſing Mothers.</hi> Though they be not Fathers to beget thee, yet they ſhall be Fa<g ref="char:EOLhyphen"/>thers to nurſe thee up, they ſhall carry thy Sonnes and thy daughters in their Armes <hi>(i.e.)</hi> they ſhall contribute their aid and aſſiſtance for the upholding and enreaſing of the Church; And the Nation and Kingdome that will not ſerve thee, (when this Kingdom of Jeſus Chriſt comes to be revealed to them) He will require it at your hands,<note place="margin">Pſalme 2.10.</note> they ſhall periſh. <hi>Eſ.</hi> 60.12. <q rend="margQuotes">"From this Unction it is, that Magiſtrates are bound to ſerve Chriſt, as Magiſtrates, that is, uſe their civill power to ſerve Chriſts Kingdome: The adminiſtration of Civill Juſtice is not ſufficient to give them the title of nurſing Fathers (for ſo much the <hi>Turk</hi> at this day doth yeild them, and yet he is no Nurſe Father to the Church.) But the Civill Power is to be uſed for the Churches ſpirituall good. 1 <hi>Tim.</hi> 2.2. The Ob<g ref="char:EOLhyphen"/>ject and end of the Kings Power, is not onely the externall peace of humane ſociety, but alſo honeſty and godlineſſe to be procured by his Civill coactive Power, and for this cauſe <hi>Paul</hi> willeth us to pray for Kings, and all that are in autho<g ref="char:EOLhyphen"/>rity.</q> Here's the <hi>quod ſit,</hi> that the Magiſtrate may do much: how much that is,<note place="margin">
+                  <hi>4.</hi> Conc.</note> will appeare in theſe foure Concluſions.</p>
+            <p n="1">1. For propagation of Religion and truth of Jeſus Chriſt;<note place="margin">
+                  <hi>1.</hi> Propagati<g ref="char:EOLhyphen"/>on.</note> It is his duty to take care that the Goſpell be preached to all the people committed to his charge and governance, thus <hi>Je<g ref="char:EOLhyphen"/>hoſaphat</hi> ſent Princes and Prieſts to teach in all the Cities of <hi>Judah.</hi> 2 <hi>Chron.</hi> 17.8.9. It is a moſt fond device to make a di<g ref="char:EOLhyphen"/>ſtinction between the Kings of <hi>Judah,</hi> and Chriſtian Princes, for what the one did by virtue of their Office, the ſame, the other ought to doe, by virtue of the ſame Office, if there be no particular exception or limitation; God enjoynes our obedi<g ref="char:EOLhyphen"/>ence to Chriſtian Magiſtrates as well as unto them, Rom. 13.1. <hi>Let every ſoule be ſubject,</hi> &amp;c. And the Scripture enjoyning the duty of the ſubject, doth eſtabliſh the authority of the Chri<g ref="char:EOLhyphen"/>ſtian Magiſtrate (for they are Relatives.)</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Protection. </seg>2</label> 2. For protection, and ſupportation: It is the Magiſtrates duty to protect Gods Truth, worſhip, and ſervice in the exer<g ref="char:EOLhyphen"/>ciſe thereof againſt all violence and affronts. And for this pur<g ref="char:EOLhyphen"/>poſe,
+<pb n="7" facs="tcp:93797:6"/>he is to take care for the maintenance and countenance of Miniſters who are to give attendance to that worke, thus <hi>Hezekiah</hi> ſpake comfortably unto all the <hi>Levits</hi> that taught the good knowledge of God. 2 <hi>Chron.</hi> 30.22. He did alſo ap<g ref="char:EOLhyphen"/>point the people to Miniſter ſuſtenance unto them. 2 <hi>Chron.</hi> 31.4. He appointed his own portion. Moreover he commanded the people to give the portion of the Prieſts that they might be encouraged in the Law of the Lord, and they brought in abundance, the firſt fruits of Corne, Wine and Oile, and of all increaſe of the Field, and the tithe of all things brought they in abundantly. <hi>Verſ.</hi> 5. The like we read of good <hi>Nehemiah, Neh.</hi> 13.10, 11, 12. See the place.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſtraint. </seg>3</label> 3. For Reformation and Reſtraint of things which be de<g ref="char:EOLhyphen"/>ſtructive to what he is bound to maintaine and propagate. And here the Magiſtrates duty is to reſtraine foure evils.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The Practiſe of Idolatry, of this there can be little doubt: <hi>Jehoſaphat, Hezekiah, and Joſiah</hi> were great Reformers, <hi>Joſiah</hi> put down the Idolatrous Prieſts whom the Kings of <hi>Judah</hi> had ſet up to burne incenſe, &amp;c. (the like did <hi>Hezekiah.</hi> 2 <hi>Chro.</hi> 31.1.) yet Note by the way, that though thoſe Prieſts which had ſerved in the high places were degraded from doing the office of Prieſts at Gods Altar any more, yet they did eate the Bread of their God among their Brethren, 2 <hi>Kin.</hi> 23.9. And this was according to the Law. <hi>Levit.</hi> 21. <hi>Ver.</hi> 21, 22. <hi>No man that hath a blemiſh [and this was typicall.]</hi> of the Seed of <hi>Aaron</hi> ſhall come nigh to offer the offerings of the Lord, yet hee ſhall eate the Bread of his God. <hi>Verſ.</hi> 22. It was not ſaid unto them, <hi>goe dig, goe beg &amp;c.</hi> This I particularly obſerve, becauſe though ſome of our Miniſters might deſerve to be put from their Office, as un<g ref="char:EOLhyphen"/>ſavory Salt, yet they muſt not be made vagabonds on the earth, nor their Wiſes and Children beggars: The Reformers under the N. Teſtament ſhould follow the rule &amp; example of thoſe re<g ref="char:EOLhyphen"/>formers, in the O. Teſtament, and this is required of them, <hi>Eze.</hi> 44.11, 13, 14. At the purging of the new Churches Miniſtery (there figured under <hi>Ezekiels</hi> Temple) thoſe that had de<g ref="char:EOLhyphen"/>filed themſelves with falſe worſhip, were to be degraded from the dignity and office of a Prieſt, to doe the moſt ſervile and meaneſt offices about the Temple, yet they ſhould have where<g ref="char:EOLhyphen"/>on
+<pb n="8" facs="tcp:93797:7"/>to live and ſubſiſt: This I ſpeake and preſſe the rather, be<g ref="char:EOLhyphen"/>cauſe as there is a deſire in ſome here preſent, that the worke of Reformation ſhould proceede and be carried on in a way of righteouſneſſe and mercy, ſo there may be a fulfilling of the ſame to roll away our (that I ſay not, your) re<g ref="char:EOLhyphen"/>proach.</p>
+            <p>A ſecond thing to be reſtrained, is the actuall preaching and ſpreading of hereticall and poiſonous Doctrines: I lay this reſtraint, not upon the holding of any opinion, though contrary to the publikly owned and eſtabliſhed Doctrine, becauſe opini<g ref="char:EOLhyphen"/>ons as opinions, being acts of the minde; are not diſcernible, and therefore not puniſhable by humane Authority, yet when ſuch dangerous opinions ſhall be publiſhed to the ſeducing and infecting of his people, then Chriſt will not have <hi>Jezebel,</hi> the pretended inſpired Propheteſſe, nor any other of like con<g ref="char:EOLhyphen"/>dition, ſuffered to ſeduce his ſervants, <hi>Rev.</hi> 2.14. It is cleere, ſuch might be reſtrained, and in caſe ſuch falſe Teachers diſre<g ref="char:EOLhyphen"/>gard the cenſures of the Church, then the Magiſtrate is in this, to ſerve Chriſt, and I thinke he may take thoſe words of <hi>Paul</hi> for his warrant, <hi>Gal.</hi> 5.12. Note 1. Hee ſpeakes there of falſe Apoſtles who had poiſoned that Church with ſome Jewiſh Doctrines. 2. He calls them troublers of the Church. 3. That ſuch troublers ought to be cut off, elſe <hi>Paul</hi> would never have wiſht it: I doe not underſtand it of a cutting off of their Lives or Eſtates, but a reſtraint of their practice, that they might no longer trouble the Church with their pernicious Doctrines; And the reſtraint upon them muſt be ſo effectuall, that they may be as if they were dead, for as long as they perſiſt in their troubleſome teaching, they are not cut off. 4. And when the Church has gon as far as it can,<note place="margin">Roll <hi>2.3.</hi>
+               </note> and prevailes nothing, then <hi>Pauls</hi> wiſh calls for the Magiſtrates helpe to reſtraine them, as evill workers in an high degree, and troublers of the Churches peace, which the Magiſtrate is bound to preſerve. But that place, <hi>Zach.</hi> 13.2, 3, 5. comes more home to our purpoſe, <hi>I will</hi> (ſaith the Lord) <hi>cauſe the Prophets and the uncleane ſpirit to paſſe out of the Land, And it ſhall come to paſſe, that when any ſhall yet prophecy, then his Father and Mother that begat him, ſhall ſay unto him, thou ſhalt not live, for thou speakest lies
+<pb n="9" facs="tcp:93797:7"/>in the Name of the Lord, &amp;c.</hi> This is a plaine prophecy of the times of the Goſpell: wherein note,<note place="margin">2 Pet. 2.1, Rev. 2.14.</note> 1. That by the Spirit of God, there is foreſhewed a ſingular evill that ſhould happen in the Chriſtian Churches, <hi>viz.</hi> men ſhall beare themſelves for Prophets which are none, (for they ſhall weare the Prophets garment to deceive.) 2. Thoſe Prophets are Teachers of falſ-hood. 3. This evill is to be purged away, and theſe men brought to ſhame by the Chriſtian Magiſtrate:<note place="margin">
+                  <g ref="char:V">Ʋ</g>erſe <hi>3.</hi>
+               </note> at the inſtance and complaint of their deareſt friends, his Father and Mother ſhall thruſt him through when he prophecieth, not with their own hands, but according to the Law, <hi>Deut.</hi> 13.9. They ſhall bring him to the Magiſtrate to be puniſhed. 4. And this ſhall be the fruit of the Magiſtrate dealing with them, <hi>viz.</hi> they ſhall be aſhamed of their viſions, and their prophecyings <hi>Ver.</hi> 4.5. and ſhall confeſſe, <hi>I am no Prophet, &amp;c.</hi>
+            </p>
+            <p>And there is a reaſon, as Mr. <hi>Burroughs</hi> thinks, why their beſt friends ſhould withſtand them in this their way. 1. Becauſe it is abhorring to nature to ſuffer that God, whom wee honour, to be blaſphemed. 2. And to ſee our Wives, Children and deareſt friends to be ſeduced into wayes, which wee thinke will undoe their ſoules to eternity, and not be able to helpe them; no way left to help our ſelves or them, unleſſe we can perſwade the ſeducer to deſiſt, or aske them why they do ſo, and intreate them to forbear.</p>
+            <p>A third ſort to be reſtrained are makers of Sects and Diviſi<g ref="char:EOLhyphen"/>ons among the people, becauſe this is directly oppoſite to the Magiſtrates proper end, <hi>viz.</hi> publike Peace, and Quiet: The ſet<g ref="char:EOLhyphen"/>ting up of diviſions, Church againſt Church, Ordinance a<g ref="char:EOLhyphen"/>gainſt Ordinance, does in its owne nature tend to the diſtur<g ref="char:EOLhyphen"/>bance of publik peace and humane ſociety; See the danger of it, <hi>Gal.</hi> 5.15. <hi>If yee bite and devour one another, Take heed yee be not conſumed one of another;</hi> if the Church of <hi>Chriſt,</hi> which ſhould be as a City at unity within it ſelfe, ſhall nouriſh within its bowells contrary Sects and Diviſions, there will be biting and devouring one of another, and the Churches diviſi<g ref="char:EOLhyphen"/>ons do prove the Churches conſumptions.</p>
+            <p>A fourth ſort to be reſtrained by the Magiſtrate are vicious livers, to the ſcandall of the Goſpell: Though the loving
+<pb n="10" facs="tcp:93797:8" rendition="simple:additions"/>of vice be worſe than living in vice, yet the Magiſtrate cannot take notice of the affection, but of the action, to reſtraine open ſins, yea, though they be not peace-diſturbing enormities; For the Magiſtrates power is not limited to preſervation of Peace and Juſtice onely, as its adequate Object, but is exten<g ref="char:EOLhyphen"/>ded to other evill workes and open enormities: <q rend="margQuotes">"As for ex<g ref="char:EOLhyphen"/>ample, he is to reſtraine the polluting of the Sabbath by buy<g ref="char:EOLhyphen"/>ing and ſelling, as <hi>Nehemiah</hi> did, <hi>cap.</hi> 13.15, 16. He is to pu<g ref="char:EOLhyphen"/>niſh and reſtraine Drunkeneſſe, <hi>Deut.</hi> 21.10. though it be a harmeleſſe and quiet drunkard: fornication alſo and vaine ſwearing comes within his compaſs, though the publick peace be not thereby diſturbed:</q> It is very much, you ſee, that the ci<g ref="char:EOLhyphen"/>vill power has to do in the things of God. But againſt the Magiſtrates reſtraining power, 3. things are objected,</p>
+            <p n="1">
+               <label>1 Ob.</label> 
+               <hi>May the Magiſtrate reſtraine me of that liberty which Chriſt hath purchaſed?</hi>
+            </p>
+            <p>
+               <label>Sol.</label> No: but Chriſt has not purchaſed a liberty for you to be an Idolater, or an Heretick, or a maker of Sects, or a vicious Liver: Chriſt has not purchaſed a liberty for <hi>Arrius</hi> to deny his Godhead, nor for a Papiſt to worſhip the creature, nor for Husbandmen and keepers of cattell, to be Prophets, nor for any man to endanger the ſalvation of others; Chriſt has not purchaſed a liberty for every man to hold what hee lift; Nor to ſerve God in his own way, for then ſome ſhould be authorized by Chriſt to blaſpheme God, and to ſerve God by ſinning againſt him. Therefore this reſtraint is juſt, and not againſt chriſtian liberty.</p>
+            <p n="2">
+               <label>2. Ob.</label> 
+               <hi>But as good have no Religion, as no liberty to practiſe it.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Sol.</hi> 1.</label> Not ſo neither, in ſome kinde of things, that of <hi>Paul, Rom.</hi> 14.22. takes place, <hi>haſt thou faith? have it to thy ſelfe,</hi> that is, art thou certainly perſwaded concerning thy liberty in theſe things? content thy ſelfe with knowing it, and with be<g ref="char:EOLhyphen"/>ing freed from ſuch ſcruples, yet forbeare the practiſe, in caſe of offence, <hi>q d.</hi> Let no man be carried out, upon particular perſwaſion of his conſcience to doe any thing to the hurt of others: reſtraint in practiſe may ſtand with Chriſtian liberty. 1 <hi>Cor.</hi> 8 8.13.</p>
+            <pb n="11" facs="tcp:93797:8"/>
+            <p>
+               <label>
+                  <hi>Sol.</hi> 2.</label> It is a ſweet priviledge for men of a different minde to enjoy their owne private judgement, under the civil Power, without having it drawne forth, and then puniſhed, when it is made known: It is a ſweet Priviledge, though my forme and way be denyed me, yet that I ſhall not be forced to a poſitive acting in a way that is contrary to my judgement; for ſo I en<g ref="char:EOLhyphen"/>joy both my civill Quiet, and my inward Peace.</p>
+            <p>
+               <label>
+                  <hi>Sol.</hi> 3.</label> There is no juſt complaint for want of Liberty, when men may have free acceſſe unto the uſe of all eſtabliſht Or<g ref="char:EOLhyphen"/>dinances, which by their own confeſſion are the power of God unto ſalvation; Againe, no man is caſt out of our Communi<g ref="char:EOLhyphen"/>on for his diſſenting judgement, unleſſe he caſt himſelfe out; If I were in <hi>New-England,</hi> in <hi>France,</hi> or <hi>Germanie,</hi> I would communicate with any Congregation, that holds Chriſt the Head, and Faith the Foundation, that holds and believes the Articles of the Creed, and profeſſe Repentance towards God, And any of thoſe Nations ſhould communicate with me upon the ſame termes. My reaſon is, becauſe Communion with Chriſt the Head, and with the Catholique Church, the Body, is the root of Communion with particular Congregations. 1. There is but One Church in the World, One Chriſt, One Faith, One Baptiſme, One Lord over all and in all. 2. Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, are Miniſters of the Church where ever they come; we are not Miniſters ſo to one Congregation, as that we cannot exerciſe miniſteriall Acts in another Congregation. 3. The Members alſo of the Church are all baptiſed into that one Body, not into this or that Congregation, and ſo we are all Members one of another. 4. Laſtly, All the Members by ver<g ref="char:EOLhyphen"/>tue of their Communion with the Church-Catholique, have a right to the Ordinances all the world over, and in the Mini<g ref="char:EOLhyphen"/>ſters where ever they come, if they come where <hi>Cephas</hi> is Pa<g ref="char:EOLhyphen"/>ſtor, they have a right in him, if where <hi>Paul</hi> and <hi>Apollos</hi> doe officiate, they have a right in them, and why ſo?<note place="margin">1 Cor 3. 12, 23.</note> becauſe you are Chriſts: ſo that the roote of Communion is becauſe I am Chriſts, and from that Head I have a right in <hi>Apollo</hi>'s, and <hi>Ce<g ref="char:EOLhyphen"/>phas,</hi> &amp;c. Look what makes one a Member of the Univerſall Viſible Church, the ſame ſerves to make one a Member of any particular Congregation, and ſuch a man hath right to the Or<g ref="char:EOLhyphen"/>dinances
+<pb n="12" facs="tcp:93797:9"/>every where: So then our Brethren are not ſtraightned by us, but in their owne bowels. And for them to make their owne Conceptions the rule and condition of holding Commu<g ref="char:EOLhyphen"/>nion with us, is in effect to impoſe upon the Magiſtrate, a ne<g ref="char:EOLhyphen"/>ceſſity of receding from the approved and publiquely owned Eſtabliſhments.</p>
+            <p n="3">
+               <label>3. Obj.</label> 
+               <hi>But we are freed by the late Act, to ſerve God in our owne way, Why then ſhould wee bee Reſtrained by the Magi<g ref="char:EOLhyphen"/>ſtrate?</hi>
+            </p>
+            <p>
+               <label>Sol.</label> That Act frees your Purſes from Penalties indeed, but not your Conſciences from Sin: <hi>Moſes</hi> allowed a Bill of Di<g ref="char:EOLhyphen"/>vorcement, if any had put away his Wife and married another, without giving ſuch a Bill, it had been death: But now though that Law did exempt the party from puniſhment, yet not from ſinne, and ſo our Saviour told the Phariſees, from the Begin<g ref="char:EOLhyphen"/>ning it was not ſo. Thus our Statute of Uſury, allowing 8. <hi>per cent.</hi> if the Queſtion be, Is that Uuſury legall? We ſay, Yes: But if the Queſtion be, Is it lawfull before God? We tell you, Nay: So in this caſe, you will not ſanctifie the Sabbath in the publique Aſſemblies, if the Queſtion be, Is this ſeparation pu<g ref="char:EOLhyphen"/>niſhable? That Act tells you, Nay: But if the Queſtion be, Is the Sabbath duly ſanctified, and do men ſin in forſaking the Aſſemblyes? We tell you, Yea: The Magiſtrate remits only the penalty, but that is no diſcharge of Duty before God: Humane powers may mittigate penalties, but they cannot make Sinne to be no Sia, nor Schiſm to be no Schiſm. Thus is the Magiſtrates reſtraining power vindicated.</p>
+            <p n="4">4. There is yet one thing more belonging to the Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrate, and that is a Power to regulate and order Circumſtan<g ref="char:EOLhyphen"/>ces for the managing of an Ordinance, which in their generall nature are neceſſary, yet leſt undetermined in Scripture: as for example. It is neceſſary in the generall, that ſome place for pub<g ref="char:EOLhyphen"/>lique Worſhip be choſen, that ſome houres be appointed, that the Miniſter uſe ſome Garments on other, &amp;c. ſeeing in ſuch things there muſt be ſome way or other uſed, and yet none is limited in Scripture, therefore the Magiſtrate may order this houre of 9. and 3. from publique meeting, rather than Sun-ri<g ref="char:EOLhyphen"/>ſing or Midnight; and for the Place, the Church rather than
+<pb n="13" facs="tcp:93797:9"/>a Taverne: and for Habit, a black Gown rather than a white Cloak: the reaſon is, becauſe that Circumſtance, which I may chuſe to my ſelfe, being free ſo to do, there being no inſtitution of Chriſt in the thing, the ſame may the civill power ordain to be obſeved by all.</p>
+            <p>Thus you have ſeen, that it is much that the Magiſtrate has to do in the things of God. 1. For Propagation: 2. For Pro<g ref="char:EOLhyphen"/>tection of the truth. 3. For reſtraint of Idolatry, Hereſie, Diviſi<g ref="char:EOLhyphen"/>ons, and vicious living. 4. And for ſetling outward order among his people.</p>
+            <p>
+               <hi>Now follows the ſecond branch of our Doctrine,</hi> viz. <hi>what the Magiſtrate may not do in matters of Religion. And here let the queſtion be, whether the civill power may impoſe an act of worſhip, and force men by temporall penalties to act againſt the convictions of their own conſcience (as here</hi> Nebu. <hi>did the</hi> 3. <hi>Children?) Neg.</hi>
+            </p>
+            <p>For anſwer 2. are to be premiſed. 1. This queſtion is not right<g ref="char:EOLhyphen"/>ly reſolved by diſtinguiſhing between an act of worſhip lawfull &amp; unlawfull, as if a true Religion might be impoſed, not a falſe; for every act of worſhip is ſuppoſed to be good in the judge<g ref="char:EOLhyphen"/>ment of the impoſer, and evill in the judgement of the refuſer: and they whoſe hap it is to live under contrary commands, and contrary Religions, muſt either have a bad conſcience, or a mi<g ref="char:EOLhyphen"/>ſerable life; a bad conſcience, if he can take in all points of the compaſs, or elſe a miſerable life under ſuch change of penalties.</p>
+            <p n="2">2. I grant, that the Magiſtrate may compell ſuch as do hold the faith, &amp; own the worſhip (yet neglect the ſame out of an a<g ref="char:EOLhyphen"/>thelſticall profanenes and irreligiouſneſs,) to preſent themſelves to every ſuch acknowledged act of Gods worſhip, as <hi>Aſa</hi> did, 2 <hi>Chron.</hi> 15.13. <hi>that whoſoever would not ſeek the Lord God of their Fathers ſhould be put to death, &amp;c.</hi> Here <hi>Aſa</hi> made compulſive Laws about Religion, and let the caſe be alike, the Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrate may compell, that is, to a confeſſed, known duty, becauſe in ſuch compulſion, the Magiſtrate does not pinch upon the conſcience of the party, but upon his diſorderly outward man, forcing him to the practiſe of a duty, which in his own conſci<g ref="char:EOLhyphen"/>ence and practice, he confeſſeth to be a duty.</p>
+            <p>Theſe things premiſed, to the queſtion as it is propoſed,<note place="margin">See this exem<g ref="char:EOLhyphen"/>pliſied and ap<g ref="char:EOLhyphen"/>plied in caſes in the Appendix.</note> I an<g ref="char:EOLhyphen"/>ſwer, that the Magiſtrate may propoſe, but not impoſe; In<g ref="char:EOLhyphen"/>ſtruct,
+<pb n="12" facs="tcp:93797:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:93797:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:93797:11"/>but not deſtroy men of a different judgement and way; he may reſtraine any falſe way (which is contrary to that which he takes himſelf bound to maintain.) But not force to a poſitive acting againſt the convictions of their own conſcience, he may not ſet up an Image and a Fornace, he may not ſay, bow, or burne.</p>
+            <p>
+               <label>
+                  <hi>Reaſ.</hi> 1.</label> Becauſe then a falſe worſhip may be impoſed, as well as the true, and the godly men undone, by refuſing a falſe worſhip, as well as carnall people by not obſerving the true: <hi>John Huſs, nobis catholic is fuit haereticus,</hi>
+               <note place="margin">Bell. de Laicis l. <hi>3.</hi> c. <hi>22.</hi>
+               </note> ſaid <hi>Bellarmine,</hi> and was therefore burned alive at <hi>Constance:</hi> looke what reaſons one ſide gives for puniſhing of another, the ſame reaſons are brought by the other ſide to puniſh them againe for the like refuſall; the ſame argument was uſed againſt <hi>Paul</hi> at <hi>Philippi, Acts</hi> 16.21. [viz. <hi>He teacheth cuſtomes which are not lawfull for us to obſerve be<g ref="char:EOLhyphen"/>ing Romans, and at Athens,</hi> Acts 17.18. <hi>Hee ſetteth forth new Gods</hi>] which <hi>Paul</hi> himſelf at firſt had uſed, when he perſecuted the Chriſtians.</p>
+            <p>
+               <label>
+                  <hi>Reaſ.</hi> 2.</label> It is againſt the nature of faith and worſhip to be forced: <hi>ſunderi, non cogi vult fides: Quis imponet mihi neceſſita<g ref="char:EOLhyphen"/>tem aut credendi quod nolim, aut quod velim, non credendi?</hi> I can not believe againſt my will, neither can I disbelieve at my pleaſure, much leſſe at the will and pleaſure of another. So for worſhip, God is not pleaſed with a forced worſhip, God is to be ſerved with a perfect heart, and a willing minde, and what<g ref="char:EOLhyphen"/>ſoever we performe againſt our will, or with an ill will, grudg<g ref="char:EOLhyphen"/>ingly, or with an unbelieving heart, not being perſwaded of the lawfulneſſe thereof, it is ſin; It is like the cutting off a Dogs neck.</p>
+            <p n="3">
+               <label>3. <hi>Reaſ.</hi>
+               </label> To impoſe an act of worſhip under bodily puniſh<g ref="char:EOLhyphen"/>ments, to come with an Image and a Fornace, is properly that which we call ſpirituall tyranny over the conſcience, for ſee<g ref="char:EOLhyphen"/>ing man cannot puniſh the conſcience directly, by an immedi<g ref="char:EOLhyphen"/>ate ſtroak [God alone can wound and heale the conſcience:] therefore all the force and puniſhment done upon the conſci<g ref="char:EOLhyphen"/>ence by men, muſt be by the body: This is properly to force and Tyrannize over the conſcience, when men are brought to this ſtrake, that either the bodily eſtate muſt periſh to ſave
+<pb n="15" facs="tcp:93797:11"/>the conſcience whole: or elſe the conſcience muſt be wounded to ſave the body, &amp; the eſtate whole: This is a Lording over mens conſcience: This was the ſad condition of our Fathers that lived under the laſh of <hi>Hen.</hi> 8. his ſix knotted whip, I meane, the ſix <hi>Articles;</hi> He came with an Image and a Fornace, if the Papiſts refuſed to acknowledge his ſupremacy, they muſt be hanged for Traitors. To the Proteſtants he came with tranſubſtantiation, and a Faggot, if they refuſed to bow to that breaden Idoll, they muſt be burnt for Hereticks.</p>
+            <p>Thus ſome Biſhops requiring ſubſcription too rigidly to all the ceremonies, and ſilencing the Non-conformiſts [though men otherwiſe of quiet ſpirits, and uſefull gifts] were deemed to exerciſe a ſpirituall tyranny over mens conſciences, becauſe they came with an image and a fornace, ſubſcription, or deprivation.</p>
+            <p>The like things done by other men in other changes of times, is really the ſame ſin, though the men and names he changed:<note place="margin">Hart-diviſ. P. 45. P. 63.</note> Hereupon Mr. <hi>Burroughs</hi> breakes out into this prayer, God grant we never meddle with any thing anſwerable to that ty<g ref="char:EOLhyphen"/>ranny, and exhorts thus, the tables may turne one day, wherein the ſufferers ſhall have the greateſt eaſe, and the inflicters the ſoreſt burthen, but God forbid that their brethren ſhould lay it upon them, though it were put into their power to do it.</p>
+            <p>
+               <label>
+                  <hi>Reaſ.</hi> 4.</label> Thus to enforce an act of Religion is againſt the prime dictate of nature, <hi>All things whatſoever ye would that men ſhould do to you, do you the ſame to them, for this is the Law of nature, and of God by his Prophets.</hi> It is a ſtrange thing to conſider how mens ſpirits and minds do alter with their condition, ſo as to thinke the ſame things juſt or unjuſt, according as it comes to their turnes to be up, or down, to be above, or beneath: men would not think it equitable to be ſo dealt with, as they deale now with others: He that ſends out groanes for liberty, if hee ſhall make others groane for lack of the ſame, though the thing impoſed be perhaps juſt and righteous, yet his act of impoſing is moſt unrighteous, becauſe he ſins againſt the light of nature, <hi>Alteri nè feceris, &amp;c.</hi> and againſt the light of the Goſpell: judge this rather, that no man lay a ſtumbling block, or an occaſion to fall in his brothers way, <hi>Rom.</hi> 14.13.</p>
+            <p>I ſhall now cleere two or three Objections of thoſe that
+<pb n="16" facs="tcp:93797:12"/>ſtand for this power of impoſing in the Magiſtrate.</p>
+            <p n="1">
+               <label>1. Ob.</label> 
+               <hi>If Magiſtrates may not impoſe, nor compell to a Church-profeſſion, then every one may be of what Religion he liſt.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> No man can be of any other Religion than what him<g ref="char:EOLhyphen"/>ſelfe doth liſt, for Religion is ſeated in the underſtanding and will: A Religion which I like not, is not my Religion. though I conforme outwardly to it: An implicite faith to believe what the Church or State believes, meerly becauſe they have agreed upon it, is no faith at all. But if by being of what Reli<g ref="char:EOLhyphen"/>gion I lift, be underſtood thus, every one will have his own way, and ſo we ſhall nouriſh all confuſions. I Anſwer, This miſchief is prevented by the Magiſtrates reſtraining power, who as hee may not inforce you to an act of worſhip againſt your mind, ſo neither will he permit you the exerciſe of what you liſt, a<g ref="char:EOLhyphen"/>gainſt his own minde: He will not force you to keep his dayes, or prayers, but you ſhall keep them, or none at all openly.</p>
+            <p n="2">
+               <label>2. Ob.</label> 
+               <hi>But doth not this non-impoſing under temporall penal<g ref="char:EOLhyphen"/>ties, amount to that abſolute, wild toleration, which you ſeeme to condemne?</hi>
+            </p>
+            <p>
+               <label>Sol.</label> No, toleration is taken away by his act of reſtraining; That which I reſtraine, I do not tolerate, he that reſtraines the practice of Idolatry, the ſpreading of Hereſies, <hi>&amp;c.</hi> cannot be ſaid to tolerate them. This non-impoſing is not toleration, but that Chriſtian moderation which ſhould be known to all men.</p>
+            <p n="3">
+               <label>3. Ob.</label> 
+               <hi>But muſt ſuch diſſenters as refuſe to act according as authority enjoynes, be let alone?</hi>
+            </p>
+            <p>
+               <label>Sol.</label> No: there is a twofold remedy provided. 1. One ſpiri<g ref="char:EOLhyphen"/>tuall for the healing and reducing of perſons going aſtray in falſe wayes of Doctrine and worſhip, <hi>viz.</hi> Inſtruction, Diſci<g ref="char:EOLhyphen"/>pline, and Prayer: ſpirituall remedies conſcientiouſly applied, through Gods bleſſing will cure ſpirituall diſeaſes. 2. But if not, yet the Magiſtrates reſtraining power and wiſdome (as above deſcribed) is a ſoveraigne remedy, every way commenſurable to the ſuppreſſing of falſe worſhip, and of all civill diſtempers that may ariſe thereof.</p>
+            <p n="4">
+               <label>4. Ob.</label> 
+               <hi>Will not this breed contempt of the Civill Power?</hi>
+            </p>
+            <p>
+               <label>Sol.</label> No: Man is not deſpiſed, when God is preferred. It is Gods prerogative royall to be obeyed in what hee requires,
+<pb n="17" facs="tcp:93797:12"/>even becauſe he commands it, that is, for his own Authorities ſake, Gods Commands are good, becauſe commanded by him: But mens commands are ſubject to examination, and we owe unto them, not an abſolute, but a conditionall obe<g ref="char:EOLhyphen"/>dience, <hi>viz. Ex parte rei,</hi> when the thing injoyned, is not un<g ref="char:EOLhyphen"/>lawfull. And in ſuch caſe of non-obedience, the reverence due to authority is preſerved by yeilding our bodies to their power in paſſive Obedience, when wee cannot yeild our ſoules to their worſhip in an active Obedience, (as here theſe three children did.)</p>
+            <p>
+               <label>
+                  <g ref="char:V">Ʋ</g>ſe.</label> I end with foure ſhort Admonitions and Cautions to the party that does diſſent, and craves not to be impoſed upon, nor forced by temporall puniſhments to act againſt the con<g ref="char:EOLhyphen"/>victions of his own conſcience, let him preciſely obſerve theſe foure Rules.</p>
+            <p>
+               <label>
+                  <hi>Caution</hi> 1.</label> Take heed, beware how thou dare pretend con<g ref="char:EOLhyphen"/>ſcience for thy non-obedience, when it is ſomething elſe, as perhaps Pride, Affectation of applauſe, Humour, Selfe-intereſt, &amp;c. Do not dare ſo to abuſe thy conſcience, as to make it a baude to thy luſt, for then humour will be conſcience, Pride and Schiſme will be conſcience, filthy lucre and vaine-glory will be conſcience, Selfe-ends and Selfe-intereſt will be conſcience; And ſo that pretious ſparkle of Divine Majeſty ſet up in thy breaſt to keepe thee in awe of ſinne, ſhall be made a cloake for ſinne, to ſinne with the more liberty and ſecurity. As it is a great ſinne to act againſt the ſtanding indictment of our own conſcience, ſo it is a ſingular abuſe of the omnipotent, holy, ſin-revenging God, to plead conſcience for the doing, or not-doing of this or that, when as there is nothing leſſe than conſcience in the buſines;—Such a man ſinnes with a pro<g ref="char:EOLhyphen"/>tection, He has gotten his conſcience, yea, God himſelfe to be the protectour of his wickedneſſe; And ſuch men, if they can be diſcovered, deſerve to be twice puniſhed, once for their fault, another time for their holy pretence. 'Tis a great boldneſſe to make conſcience a Sanctuary for any diſ<g ref="char:EOLhyphen"/>order.</p>
+            <p n="2">2. Let the diſſenting party, though he cannot conforme to the Injunctions of Authority in ſome point of opinion or wor<g ref="char:EOLhyphen"/>ſhip,
+<pb n="18" facs="tcp:93797:13"/>yet carry himſelfe ſo innocently, peaceably, and unof<g ref="char:EOLhyphen"/>fenſively in other reſpects, that the Magiſtrate may juſtifie thee, and have cauſe to ſay, <hi>I have no occaſion or matter againſt him, ſave in the Law of his God,</hi> (<hi>as it was ſaid of</hi> Daniel, <hi>Dan.</hi> 6.5.)</p>
+            <p n="3">3. For the manner of refuſall, be carefull to carry it in an humble, quiet, Selfe-denying way; do not beare it out with railing, or Pride, or Turbulence of ſpirit factiouſly or ſediti<g ref="char:EOLhyphen"/>ouſly: Hee that does diſſent from the publikly owned and eſtabliſht way, hath great reaſon to be humble and jealous of his own weakneſſe. When a man by reaſon of his conſcience diſſents from the civill power, if he can enjoy his owne inward peace and outward quiet, he ſhould diſcover a very ill ſpirit to poure contempt and ſcorne upon the truths of God publikly preached, or to eaſt dirt upon the wayes which he oppoſed, or contemne and vilifie thoſe that differ from him.</p>
+            <p n="4">4. Be ſure, practically to put a difference between non-obe<g ref="char:EOLhyphen"/>dience, and diſobedience or Rebellion; if thou be required any thing which is contrary to thy judgement, ſit downe with a modeſt non-obedience, But let not thy ſpirit be carried out to rebell, or to ſetting up of Image againſt Image, worſhip againſt worſhip, Aſſembly againſt Aſſembly, in a viſible oppoſition to the publike.</p>
+            <p>
+               <label>Ob.</label> 
+               <hi>And if thy caſe be ſuch as that of</hi> Peter <hi>and</hi> James, <hi>Act;</hi> 4.18. <hi>They were commanded not to speake at all, nor to teach in the Name of Jeſus, yet they did</hi> Ver. 19. <hi>becauſe God had comman<g ref="char:EOLhyphen"/>ded them to preach in his Name.</hi>
+            </p>
+            <p>
+               <label>Sol.</label> Then remember thou art under a double bond of con<g ref="char:EOLhyphen"/>ſcience at the ſame time, one from God, who commands thee to preach; Another from men, who command thee not to Preach; But here in this caſe, thy conſcience is diſcharged. 1. Unto God by doing what he commands thee, and 2. To the Magiſtrate by ſubmitting to his power in ſuffering, And ſo thy duty to God, and thy reverence due to authority are both pre<g ref="char:EOLhyphen"/>ſerved. And thus I am brought to my ſecond Doctrine.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>In caſe of injurious impoſitions, what is Christian to doe?</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> Rather yeild our bodies to the fire, than our conſci<g ref="char:EOLhyphen"/>ence
+<pb n="19" facs="tcp:93797:13"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> to the worſhip, as theſe three worthies in my Text did: From whence my ſecond Doctrine is this, <hi>viz.</hi> To cleave to Gods Will and Wayes againſt all humane dread and terrour, out of a confident perſwaſion that he is Lord of our lives, able to deliver, and in an humble Reſignation to his Wiſdome, whether he will deliver or not, in ſuch a ſtraite, is a ſtrength of ſpirit to be endeavoured after, by all that feare God, and would keep a good Conſcience.</p>
+            <p>Every circumſtance of this Doctrine is grounded on the Anſwer of <hi>Shadrach, Meſhach</hi> and <hi>Abednego</hi> to <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar, Verſ.</hi> 16 17. To cleave to Gods Will and Wayes [ſo did they, <hi>wee will not ſerve thy Gods, nor worſhip the Gol<g ref="char:EOLhyphen"/>den Image which thou haſt ſet up.</hi>] Againſt all humane dread and terrour. [So did they, <hi>wee are not carefull to anſwer thee in this matter.</hi>] Out of faith or a confident perſwaſion that he is able to deliver [therefore they ſaid, <hi>our God whom wee ſerve is able to deliver us from the burning fiery Fornace</hi>] and in an humble Reſignation to his wiſdome, whether he will de<g ref="char:EOLhyphen"/>liver in ſuch a ſtraite, or not [ſo they ſaid, <hi>hee will deliver us cut of thine hand, O King, ſcil.</hi> if it ſeeme beſt to his Godly Wiſdome, we are not ſure, that hee will deliver us, therefore they expreſſe their confidence conditionally, [But if not] as if they had ſaid, He can, if hee will, if it be for his glory and ours, and the Churches good, deliver us, but for that, we re<g ref="char:EOLhyphen"/>ſigne up our ſelves to his Will and Wiſdome, and reſolve to ſtick to his wayes, and to our duties; However hee pleaſe to diſpoſe of us] is a ſtrength of ſpirit, [it is not every degree of grace that can make a man to do this,] yet it is to be endea<g ref="char:EOLhyphen"/>voured after, and reſolved on, by all that feare God, [for otherwiſe we ſhould feare a man that ſhall die, and forget the Lord our Maker, who is able to deſtroy both Body and Soule in hell, if we deny him before a ſinfull Generation of men.]</p>
+            <p>But here I muſt make an end.</p>
+            <p>Thus I have, I hope, according to promiſe, in a ſober, mo<g ref="char:EOLhyphen"/>derate way, unpartially held forth the cleare Minde of God in this great and buſie controverſie. How we ought to judge, and how to walke betweeen two Opinions, one of them, that bring the Civill Arme to enforce to a conformity under the tempo<g ref="char:EOLhyphen"/>rall
+<pb n="20" facs="tcp:93797:14"/>penalties of Impriſonment, Sequeſtration, &amp;c. and others, that plead for an abſolute freedome from all coercive power of Magiſtrates in matters of Religion.</p>
+            <p>The true uſe of this Diſcourſe lieth in the Practice, which if heeded, will produce this happy fruit, 1. God will have his Glory and true Preheminence over our Soules. 2. The Goſpell of Chriſt, its true Honour and Splendor, being propagated and protected. 3. The Devill and his inſtruments, their due ſhame, whilſt error is reſtrained and vice ſuppreſſed. 4. The Miniſters and Servants of <hi>Jeſus Chriſt</hi> will have their due en<g ref="char:EOLhyphen"/>couragement and protection. 5. Mens conſciences their juſt Li<g ref="char:EOLhyphen"/>berty. 6. The Church will enjoy more truth in Power and Puri<g ref="char:EOLhyphen"/>ty, and Brethren more Freedom, Love, and Peace among them<g ref="char:EOLhyphen"/>ſelves. 7. And many thouſand Souls preſerved from periſhing through dangerous Seduction.</p>
+            <p>If in theſe or the like reſpects any Glory may redound to God, any good to the Church, I ſhall attaine the end of my Preaching, and you the Fruit of my Sermon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
